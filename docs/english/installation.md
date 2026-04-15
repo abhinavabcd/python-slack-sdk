@@ -1,6 +1,6 @@
 # Installation
 
-This package supports Python 3.6 and higher. We recommend using [PyPI](https://pypi.python.org/pypi) for installation. Run the following command:
+This package supports Python 3.7 and higher. We recommend using [PyPI](https://pypi.python.org/pypi) for installation. Run the following command:
 
 ```bash
 pip install slack-sdk
@@ -69,7 +69,7 @@ import os
 SLACK_BOT_TOKEN = os.environ["SLACK_BOT_TOKEN"]
 ```
 
-Refer to our [best practices for security](/authentication/best-practices-for-security) page for more information.
+Refer to our [best practices for security](/security) page for more information.
 
 ## Installing on a single workspace {#single-workspace}
 
